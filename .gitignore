@@ -1,0 +1,11 @@
+# 构建产物
+main
+main32
+*.o
+*.out
+a.out
+# gdb 日志与脚本
+gdb_log.txt
+gdb_cmds
+
+temp/
